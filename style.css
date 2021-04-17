@@ -1,0 +1,23 @@
+h1{
+    color: sandybrown;
+    font-size: 32px;
+}
+label {
+    font-weight: bold;
+    color: sienna;
+
+
+}
+
+
+button {
+   
+background-color: black;
+height: 40px;
+color: whitesmoke;
+}
+
+fieldset {
+    border-color: red;
+}
+
